@@ -1,0 +1,724 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"e",
+				"endl"
+			],
+			[
+				"bott",
+				"bottomPoint"
+			],
+			[
+				"ball",
+				"ballLength"
+			],
+			[
+				"Bott",
+				"bottomPoint"
+			],
+			[
+				"top",
+				"topPoint"
+			],
+			[
+				"paddl",
+				"paddleLength"
+			],
+			[
+				"padd",
+				"paddle_1_Y"
+			],
+			[
+				"progre",
+				"progressGet"
+			],
+			[
+				"electron",
+				"electronPath"
+			],
+			[
+				"subject",
+				"subjectButtonTest"
+			],
+			[
+				"sn",
+				"sneezeGuardIsVisible"
+			],
+			[
+				"snee",
+				"sneezeGuardHasAppeared"
+			],
+			[
+				"click",
+				"clickAddChannelMenu"
+			],
+			[
+				"addchann",
+				"AddChannelButton"
+			],
+			[
+				"millSec",
+				"millSecInDay"
+			],
+			[
+				"get",
+				"getDate"
+			],
+			[
+				"sam",
+				"samplingRate"
+			],
+			[
+				"P",
+				"pi"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2641,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 901,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "spare.html",
+			"settings":
+			{
+				"buffer_size": 1269,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 144.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Boxy Theme: Activation"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Boxy",
+				"Boxy Theme: Activation"
+			],
+			[
+				"Bo",
+				"Boxy Theme: Activation"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 398.0
+	},
+	"console":
+	{
+		"height": 396.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/chamilton/Documents/Training/Surfcraft",
+		"/C/Users/chamilton/Documents/Training/Surfcraft/css",
+		"/C/Users/chamilton/Documents/Training/Surfcraft/images"
+	],
+	"file_history":
+	[
+		"/C/Users/chamilton/Documents/Training/Surfcraft/images/BlueLogoNoBackground.png",
+		"/C/Users/chamilton/Documents/Training/Surfcraft/images/BoardAndSky.JPG",
+		"/C/Users/chamilton/Documents/Training/htmlFooling.html",
+		"/C/Users/chamilton/Desktop/python-script-make-32channels/make_32_channels.py",
+		"/D/Sandbox/ADIUpdater/ConfigREADME.txt",
+		"//terra/Drop Folders~~/Dylan Rasburn/python-script-make-32channels/make_32_channels.py",
+		"/D/Sandbox/ADIUpdaterAutoTests/kcd/check_update/testUpdateWorked_spec.js",
+		"/C/Users/chamilton/Documents/Training/RegEx_Training_onSublime",
+		"/C/Users/chamilton/Documents/Training/WebPage/Images/surfing.png",
+		"/C/Users/chamilton/Downloads/test.html",
+		"/C/ProgramData/ADInstruments/Updater/kcd-config.json",
+		"//updates-sandbox.adi.co.nz/www/kcd-win.json",
+		"//updates-sandbox.adi.co.nz/www/kcd/kuraCloudSoftwareUpdates.json",
+		"/D/Sandbox/ADIUpdaterAutoTests/reports/TEST-FrisbyTestInititateKCDUpdate.xml",
+		"/D/Sandbox/ADIUpdaterAutoTests/kcd/spec/sleepFace/test-sleepFace_spec.js",
+		"/D/Sandbox/ADIUpdaterAutoTests/kcd/spec/sleep/test-sleep_spec.js",
+		"/D/Sandbox/ADIUpdaterAutoTests/kcd/spec/sleepLocal/test-sleepLocal_spec.js",
+		"/D/Sandbox/ADIUpdaterAutoTests/.gitignore",
+		"/D/Sandbox/ADIUpdaterAutoTests/kcd/spec/config/test-appid-config_spec.js",
+		"/C/ProgramData/ADInstruments/Updater/Updater.properties",
+		"/D/Sandbox/ADIUpdaterAutoTests/kcd/config/test-appid-config_spec.js",
+		"/C/Users/chamilton/Documents/ServerTest/index.html",
+		"/C/Users/chamilton/Documents/Training/Java Script Training.txt",
+		"/C/Users/chamilton/Documents/Training/C++Training",
+		"/C/Users/chamilton/Desktop/ADIUpdaterAPITests/updater-tests/tests/update_spec.js",
+		"/C/Users/chamilton/Desktop/ADIUpdaterAPITests/updater-tests/tests/app-info_spec.js",
+		"/D/Sandbox/ADIUpdaterAutoTests/kcd/update_kcd/update-kcd_spec.js",
+		"/D/Sandbox/ADIUpdaterAutoTests/kcd/test/sleep_spec.js",
+		"/D/Sandbox/ADIUpdaterAutoTests/kcd/test/test-appid-config_spec.js",
+		"/D/Sandbox/ADIUpdaterAutoTests/kcd/sleep/sleep_spec.js",
+		"/D/Sandbox/ADIUpdaterAutoTests/kcd/spec/test-appid-config_spec.js",
+		"/C/Users/chamilton/Documents/Training/js/J_SON",
+		"//terra/Drop Folders~~/Cliff Hamilton/Updater Testing Files/kuraCloudDesktop.properties",
+		"//terra/Drop Folders~~/Cliff Hamilton/aidanTest",
+		"/D/Sandbox/ADIUpdaterAutoTests/spec/test-appid-config_spec.js",
+		"/D/Sandbox/ADIUpdaterAutoTests/spec/testUpdateWorked_spec.js",
+		"/D/Sandbox/AutoTests/apitests/spec/update-kcda_spec.js",
+		"/C/Windows/Temp/ADInstruments/Updater/Download/kcd.json",
+		"/D/Sandbox/AutoTests/apitests/package.json",
+		"/C/ProgramData/ADInstruments/Updater/kcd-config.default.json",
+		"/D/Sandbox/AutoTests/apitests/spec/teamcitytest_spec.js",
+		"/C/ProgramData/kuraCloud/kuraCloudDesktop.properties",
+		"/D/Sandbox/AutoTests/apitests/spec/app-id_spec.js",
+		"//terra/Drop Folders~~/Cliff Hamilton/Updater Testing Files/Updater.properties",
+		"//terra/Drop Folders~~/Cliff Hamilton/Updater Testing Files/kcd-win.json",
+		"/C/Users/chamilton/Desktop/ADIUpdaterAPITests/updater-tests/tests/app-id_spec.js",
+		"/C/Users/chamilton/Desktop/ADIUpdaterAPITests/updater-tests/package.json",
+		"/C/Users/chamilton/Desktop/ADIUpdaterAPITests/package.json",
+		"//updates-sandbox.adi.co.nz/www/kcd-signed-invalid-win.json",
+		"/D/Sandbox/UpdaterTestWWW/config.js",
+		"/D/Sandbox/UpdaterTestWWW/package.json",
+		"/C/Users/chamilton/Documents/ServerTest/kcd-win.json",
+		"/C/Users/chamilton/Documents/ServerTest/testPage.html",
+		"//updates-sandbox.adi.co.nz/www/kuraCloudSoftwareUpdates.json",
+		"/C/Users/chamilton/AppData/Roaming/Sublime Text 3/Packages/User/Plain Text.sublime-settings",
+		"/C/Users/chamilton/AppData/Roaming/Sublime Text 3/Packages/User/PlainText.sublime-settings",
+		"/C/Users/chamilton/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"//updates-sandbox.adi.co.nz/www/index.html",
+		"/D/Sandbox/UpdaterTestWWW/views/updater.hbs",
+		"//updates-sandbox.adi.co.nz/www/freeFormFriday/index.html",
+		"/C/Users/chamilton/Documents/Training/pong.html",
+		"/D/Sandbox/UpdaterTestWWW/bin/www",
+		"/D/Sandbox/UpdaterTestWWW/views/index.hbs",
+		"/D/Sandbox/UpdaterTestWWW/public/stylesheets/style.css",
+		"/D/Sandbox/UpdaterTestWWW/routes/index.js",
+		"/C/Users/chamilton/AppData/Local/Programs/Python/Python35-32/pythonw.exe",
+		"/D/Sandbox/UpdaterTestWWW/updater.sublime-project",
+		"/D/Sandbox/UpdaterTestWWW/views/lc.hbs",
+		"/D/Sandbox/Updater/README.md",
+		"/D/Sandbox/UpdaterTestWWW/.gitignore",
+		"/D/Sandbox/Legato/app/modules/views/chart-smart-settings/components/channel/channel-data/channel-data.js",
+		"/D/Sandbox/Legato/test/e2e.js",
+		"/D/Sandbox/Legato/app/components/subject-button/subject-button.css",
+		"/D/Sandbox/Legato/app/modules/views/chart-smart-settings/components/time-scale/sampling-button.js",
+		"/D/Sandbox/Legato/app/modules/views/chart-smart-settings/components/time-scale/time-scale.js",
+		"/D/Sandbox/Legato/app/modules/views/chart-smart-settings/components/channel/channel-options.js",
+		"/D/Sandbox/Legato/webpack.config.development.js",
+		"/D/Sandbox/Legato/package.json",
+		"/D/Sandbox/Legato/main.development.js",
+		"/D/Sandbox/Legato/test/setup.js",
+		"/C/Users/chamilton/Desktop/test/Legato/package.json",
+		"/D/Sandbox/Legato/app/modules/views/chart-smart-settings/components/channel/channel-dropdown.css",
+		"/D/Sandbox/Legato/app/components/dropdown-button/dropdown-button.css",
+		"/D/Sandbox/Legato/app/components/dropdown-button/dropdown-button.js",
+		"/D/Sandbox/Legato/app/modules/views/chart-smart-settings/components/channel/channel-dropdown.js",
+		"/D/Sandbox/Legato/app/modules/views/chart-smart-settings/actions.js",
+		"/D/Sandbox/Legato/Legato.sublime-project",
+		"/E/SP Service/images/mm_functions.js",
+		"/D/Sandbox/Legato/app/modules/views/chart-smart-settings/constants.js",
+		"/D/Sandbox/Risoluto/app/modules/views/chart/components/time-scale/sampling-button.css",
+		"/D/Sandbox/Risoluto/app/modules/react-perf/react-perf.js",
+		"/D/Sandbox/Risoluto/app/modules/views/file-manager/containers/file-manager-view.css",
+		"/D/Sandbox/Risoluto/app/modules/omni/reducers.js",
+		"/D/Sandbox/Counter/Counter.sublime-project",
+		"/D/Sandbox/Risoluto/app/modules/views/file-manager/constants.js",
+		"/D/Sandbox/Test/node_modules/webdriverio/lib/protocol/buttonPress.js",
+		"/D/Sandbox/Pizzicato/app/modules/views/chart-smart-settings/containers/chart-smart-settings-view.js",
+		"/D/Sandbox/Pizzicato/app/modules/views/chart-customisation/components/channel/channel-options.js",
+		"/D/Sandbox/Pizzicato/app/modules/views/chart-smart-settings/components/channel/channel-options.js",
+		"/D/Sandbox/Pizzicato/app/modules/views/chart-smart-settings/components/channel/channel.js",
+		"/D/Sandbox/Pizzicato/app/reducers/view-layout-data.js",
+		"/D/Sandbox/Pizzicato/app/modules/views/chart-customisation/reducers.js",
+		"/D/Sandbox/Pizzicato/app/containers/views/utils/view-utils.js",
+		"/D/Sandbox/Pizzicato/app/modules/views/chart-customisation/containers/function-editor.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/Sandbox/Pizzicato/webpack.config.development.js",
+		"/D/Sandbox/Pizzicato/webpack.config.base.js",
+		"/D/Sandbox/Pizzicato/server.js",
+		"/D/Sandbox/Pizzicato/main.development.js",
+		"/D/Sandbox/Pizzicato/package.json",
+		"/D/Sandbox/LabChartDev/.hgsub",
+		"/D/Sandbox/Lightning/Staccato/app/components/app-toolbar/app-toolbar.js",
+		"/D/Sandbox/Lightning/Staccato/app/reducers/view-layout.js",
+		"/D/Sandbox/Lightning/Staccato/app/actions/view-layout.js",
+		"/D/Sandbox/Lightning/Staccato/app/components/views/view-container.js",
+		"/D/Sandbox/Lightning/Staccato/app/containers/views/undo-redo/undo-redo.js",
+		"/D/Sandbox/Lightning/Staccato/app/components/tabs/tabs.js",
+		"/D/Sandbox/Lightning/Staccato/app/components/tabs/tabs.css",
+		"/D/Sandbox/Lightning/Staccato/app/containers/views/undo-redo/undo-redo.css",
+		"/D/Sandbox/Lightning/Staccato/app/reducers/index.js",
+		"/C/Users/chamilton/Desktop/KCDServedFolder/kuraCloudSoftwareUpdates.json",
+		"/D/Sandbox/Lightning/Staccato/app/components/undo-history/undo-slider.js",
+		"/D/Sandbox/Lightning/Staccato/webpack.config.electron.js",
+		"/D/Sandbox/Lightning/Staccato/Staccato.sublime-project",
+		"/D/Sandbox/Lightning/Staccato/.vscode/settings.json",
+		"/D/Sandbox/Lightning/Staccato/package.json",
+		"//terra/Releases/Win/App/LabChart/Dev/Tips/8_1_6/Inputs/Build/config.yaml",
+		"/D/Sandbox/Test3/rollcall.txt"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+			"",
+			"-main.js,-main.js.map,-bundle.js.map,-bundle.js,-LICENSES.chromium.html",
+			"-main.js,-main.js.map,-bundle.js.map,-bundle.js",
+			"-main.js,-main.js.map,-bundle.js.map",
+			"-main.js,-main.js.map",
+			"-main.js",
+			"-D:\\Sandbox\\Pizzicato\\main.js",
+			"main.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"(\\.[a-zA-Z\\d]+)_([a-zA-Z\\d])",
+			"(\\.[a-zA-Z\\d]+)_.([a-zA-Z\\d]+)",
+			"g(ood)\\sg(o)d",
+			"g(ood)\\sg(od)",
+			"g(ood)",
+			"(g)ood",
+			"\\d\\d3",
+			"\\d\\d",
+			"((^|,|)thud(|,|$)){2}",
+			"((^|,|)thud(|,|$))",
+			"((^|,|)thud(,|$))",
+			"[((^|,)thud(,|$))]",
+			"((^|,)thud(,|$))",
+			"<.*>",
+			"/<.*>/",
+			"(^|,)thud(,|$)+",
+			"(^|,)thud(,|$)",
+			"(thud){2}",
+			"(thud ){2}",
+			"(good ){2}",
+			"good{2}",
+			"((^|,)thud(,|$)){2}",
+			"(^|,)thud(,|$){2}",
+			"(^|,)thud(,|$)*",
+			"(^|,)thud(,|$)",
+			"^\\s*url",
+			"^(\\s)url",
+			"^\\surl",
+			" foo",
+			"(^|,)garp(,|$)",
+			"^   foo",
+			"^\\tfoo",
+			"^foo",
+			"thud$",
+			"[^]url",
+			"[^u]rl",
+			"[^(url)]",
+			"[^url]",
+			"garp",
+			"    url",
+			"^\\t",
+			"\\t",
+			"(\\s)$url",
+			"(url)$",
+			"^(\\turl)",
+			"(\\turl)^",
+			"(\\nurl)^",
+			"^(\\nurl)",
+			"^(\\n)url",
+			"^url",
+			"url",
+			"^url",
+			"(\\t)^",
+			"(   url)^",
+			"^(   url)",
+			"^(url)",
+			"url^",
+			"(url)^",
+			"(url)$",
+			"[^#]^",
+			"[^;]$",
+			"^;$",
+			"(^;)$",
+			"[^;]$",
+			"@^",
+			"^\\@",
+			"^@",
+			"@",
+			"There",
+			"[(bacon)(dog)]",
+			"(bacon|dog)",
+			"callBack",
+			"event listener",
+			"Open",
+			"   it(\"returns an empty user config by default\", (done) => {\n      //var request = supertest(apiBase);\n\n      request\n      .get('/apps/kcd/config')\n      .expect(200)\n      .expect(function(response) {\n         console.log(`Response: ${response.text}`); // Delete this\n         var body = JSON.parse(response.text);\n         if (JSON.stringify(body) != \"{}\") throw new Error(\"Non-empty object in user config\");\n      })\n      .end(done);\n   });",
+			"]",
+			"Tim",
+			"node_modules\\\\.bin\\\\",
+			"callback",
+			"closure",
+			"onclick",
+			"Events",
+			"const ",
+			"const",
+			"String",
+			"let ",
+			"let",
+			"Inequality",
+			"coercion",
+			"\"Color",
+			"theme",
+			"kuraCloudDesktop",
+			"}\n",
+			"progressGet",
+			"productName",
+			"appInfoAvailableUpdates",
+			"updatePost",
+			"New API calls",
+			"console.log",
+			"console.log()",
+			"localhost",
+			"localhost:3080",
+			"updater",
+			"lightning test",
+			"fileKeyPrefixIndicator",
+			"fixedheader",
+			"console.log",
+			"localhost",
+			"54",
+			"/app-info",
+			"clickSneezeguard",
+			"addChannelMenuIsVisible",
+			"clickSneezeguard",
+			"addChannelMenuIsVisible",
+			"fsevents",
+			"sampling",
+			"close",
+			"channel-dropdown",
+			"finger pulse",
+			"houragoString",
+			"lastModified",
+			"new Date()",
+			"sessionsview",
+			"addSessionButton",
+			".removeSession",
+			".remove",
+			"removeSessionButton",
+			".sessions-view"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$1\\u",
+			"f$1 d$2g",
+			"f$1 d$2",
+			"f$1",
+			"$1f",
+			"$1 f",
+			"tud",
+			"\\turl",
+			"\\tURL"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1252,
+								1252
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 235.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "spare.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								967,
+								967
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 157.0
+	},
+	"pinned_build_system": "",
+	"project": "Surfcraft.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"chann",
+				"app\\modules\\views\\chart-smart-settings\\components\\channel\\channel-options.js"
+			],
+			[
+				"times",
+				"app\\modules\\views\\chart-smart-settings\\components\\time-scale\\time-scale.js"
+			],
+			[
+				"samplin",
+				"app\\modules\\views\\chart-smart-settings\\components\\time-scale\\sampling-button.js"
+			],
+			[
+				"channel-da",
+				"app\\modules\\views\\chart-smart-settings\\components\\channel\\channel-data\\channel-data.js"
+			],
+			[
+				"actions",
+				"app\\modules\\views\\chart-smart-settings\\actions.js"
+			],
+			[
+				"drop",
+				"app\\components\\dropdown-button\\dropdown-button.js"
+			],
+			[
+				"sessions-view",
+				"app\\modules\\views\\sessions\\containers\\sessions-view.js"
+			],
+			[
+				"cons",
+				"app\\modules\\views\\file-manager\\constants.js"
+			],
+			[
+				"selecto",
+				"app\\modules\\views\\file-manager\\selectors.js"
+			],
+			[
+				"acvlayout",
+				"app\\actions\\view-layout.js"
+			],
+			[
+				"reducer.js",
+				"app\\reducers\\view-layout.js"
+			],
+			[
+				"reducer",
+				"app\\reducers\\view-layout.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 35.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 504.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
