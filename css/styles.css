@@ -1,0 +1,96 @@
+body {
+    margin: auto;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: url(../images/mainPicResize.jpg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+}
+
+@media (max-width: 900px) {
+    header {
+        margin: 5px auto;
+    }
+}
+
+#headerLogo {
+    margin: 10px auto;
+    /*height: 120px; */
+    width: 40%;
+    height: 40%;
+    flex: 1;
+}
+
+#headerText {
+    margin: auto;
+    text-align: left;
+    text-indent: -9999px;
+    font-size: 1px;
+}
+
+#info {
+    margin: auto;
+    flex-basis: 70%;
+    padding-bottom: 0px;
+}
+
+#info p {
+    text-align: center;
+}
+
+#info :last-child {
+    margin-bottom: 0px;
+}
+
+#info a {
+    text-decoration: none;
+}
+
+.quote {
+    font-family: 'Indie Flower', cursive;
+    margin: 0px;
+
+}
+
+footer {
+    margin: auto;
+    padding: 10px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    display: flex;
+    display: inline;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+footer a {
+    text-decoration: none;
+    flex: 1;
+    margin: auto;
+}
+
+footer p {
+    text-align: center;
+}
+
+.copyright {
+    width: 80%;
+    position: absolute; 
+    bottom: 5px; 
+    font-size: 12px;
+    margin: auto;
+}
+
+.copyright p {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
