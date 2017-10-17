@@ -4,7 +4,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: url(../images/mainPicResize.jpg);
+    background: url(../images/mainPicResize.jpg) no-repeat;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -58,7 +58,6 @@ header {
 .quote {
     font-family: 'Indie Flower', cursive;
     margin: 0px;
-
 }
 
 footer {
@@ -70,6 +69,7 @@ footer {
     display: inline;
     flex-wrap: nowrap;
     justify-content: center;
+    /* flex-grow: 1; */
 }
 
 footer a {
@@ -84,7 +84,7 @@ footer p {
 
 .copyright {
     width: 80%;
-    position: absolute; 
+    position: absolute;
     bottom: 5px; 
     font-size: 12px;
     margin: auto;
